@@ -13,7 +13,8 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | |
 |-|-|-|
-| [🤖 Agentic Framework](#agentic-framework) | [☎️ Agentic Protocol](#agentic-protocol) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
+| [🤖 Agentic Framework](#agentic-framework) | [☎️ Agentic Protocol](#agentic-protocol) | [🎮 Prompt Engineering](#prompt-engineering) |
+| [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
 
