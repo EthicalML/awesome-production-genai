@@ -18,7 +18,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 ## Contributing to the list
 
-Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-production-genai/blob/master/CONTRIBUTING.md) requirements when submitting a PR to help us keep the list clean and up-to-date - thank you to the community for supporting its steady growth 🚀
+Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-production-genai/blob/main/CONTRIBUTING.md) requirements when submitting a PR to help us keep the list clean and up-to-date - thank you to the community for supporting its steady growth 🚀
 
 <picture>
   <source
