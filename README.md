@@ -13,7 +13,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | |
 |-|-|-|
-| [🤖 Agent Development](#agent-development) | [☎️ Model Context Frameworks & Protocols](#model-context-frameworks--protocols) | [🎮 Prompt Engineering](#prompt-engineering) |
+| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎮 Prompt Engineering](#prompt-engineering) |
 | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
@@ -86,7 +86,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social) - Swarms is an enterprise grade and production ready multi-agent collaboration framework that enables you to orchestrate many agents to work collaboratively at scale to automate real-world activities.
 * [TensorZero](https://github.com/tensorzero/tensorzero) ![](https://img.shields.io/github/stars/tensorzero/tensorzero.svg?style=social) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation. 
 
-## Model Context Frameworks & Protocols
+## Context Management
 
 * [A2A](https://github.com/a2aproject/A2A) ![](https://img.shields.io/github/stars/a2aproject/A2A.svg?style=social) - Agent2Agent (A2A) protocol addresses a critical challenge in the AI landscape: enabling gen AI agents, built on diverse frameworks by different companies running on separate servers, to communicate and collaborate effectively - as agents, not just as tools.
 * [agents.json](https://github.com/wild-card-ai/agents-json) ![](https://img.shields.io/github/stars/wild-card-ai/agents-json.svg?style=social) - The agents.json Specification is an open specification that formally describes contracts for API and agent interactions, built on top of the OpenAPI standard.
