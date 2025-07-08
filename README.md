@@ -13,7 +13,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | |
 |-|-|-|
-| [🤖 Agentic Framework](#agentic-framework) | [☎️ Agentic Protocol](#agentic-protocol) | [🎮 Prompt Engineering](#prompt-engineering) |
+| [🤖 Agent Development](#agent-development) | [☎️ Agentic Protocol](#agentic-protocol) | [🎮 Prompt Engineering](#prompt-engineering) |
 | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
@@ -64,7 +64,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 # Main Content
 
-## Agentic Framework
+## Agent Development
 
 * [AgentOps](https://github.com/AgentOps-AI/agentops) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) - AgentOps helps developers build, evaluate, and monitor AI agents from prototype to production.
 * [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg?style=social) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
