@@ -39,6 +39,29 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
   />
 </picture>
 
+
+## Want to receive recurrent updates on this repo and other advancements?
+
+<table>
+  <tr>
+    <td width="30%">
+         You can join the <a href="https://ethical.institute/mle.html">Machine Learning Engineer</a> newsletter. Join over 70,000 ML professionals and enthusiasts who receive weekly curated articles & tutorials on production Machine Learning.
+    </td>
+    <td width="70%">
+        <a href="https://ethical.institute/mle.html"><img src="images/mleng.png"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
+         Also check out the <a href="https://github.com/EthicalML/awesome-artificial-intelligence-regulation">Awesome Production Machine Learning </a> List, where we aim to provide a curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning.
+    </td>
+    <td width="70%">
+        <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/"><img src="images/list.jpg"></a>
+    </td>
+  </tr>
+</table>
+
+
 # Main Content
 
 ## Agentic Framework
