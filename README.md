@@ -3,7 +3,7 @@
 
 # Awesome Production Generative Artificial Intelligence
 
-This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production generative artificial intelligence 🚀
+This repository contains a curated list of awesome open source libraries that will help you deploy, monitor, version, scale, and secure your production generative artificial intelligence systems and applications 🚀
 
 You can keep up to date by watching this github repo to get a summary of the new production ML libraries added every month [via releases](https://github.com/EthicalML/awesome-production-genai/releases) 🤩
 
