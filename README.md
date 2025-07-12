@@ -13,8 +13,8 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | |
 |-|-|-|
-| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎮 Prompt Engineering](#prompt-engineering) |
-| [🎨 Visual Engine](#visual-engine) |
+| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) |
+| [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
 
@@ -92,6 +92,10 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [agents.json](https://github.com/wild-card-ai/agents-json) ![](https://img.shields.io/github/stars/wild-card-ai/agents-json.svg?style=social) - The agents.json Specification is an open specification that formally describes contracts for API and agent interactions, built on top of the OpenAPI standard.
 * [ANP](https://github.com/agent-network-protocol/AgentNetworkProtocol) ![](https://img.shields.io/github/stars/agent-network-protocol/AgentNetworkProtocol.svg?style=social) - AgentNetworkProtocol (ANP) is an open-source communication standard designed to enable seamless connectivity and collaboration between intelligent agents, positioning itself as the foundational protocol for agent-to-agent interactions in the emerging AI ecosystem.
 * [MCP Inspector](https://github.com/modelcontextprotocol/inspector) ![](https://img.shields.io/github/stars/modelcontextprotocol/inspector.svg?style=social) - MCP inspector is a developer tool for testing and debugging MCP servers.
+
+## Memory Management
+
+* [MemOS](https://github.com/MemTensor/MemOS) ![](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social) - MemOS is an operating system for Large Language Models (LLMs) that enhances them with long-term memory capabilities. It allows LLMs to store, retrieve, and manage information, enabling more context-aware, consistent, and personalized interactions.
 
 ## Prompt Engineering
 
