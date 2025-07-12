@@ -11,10 +11,9 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 ## Quick links to sections on this page
 
-| | | | |
-|-|-|-|-|
-| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) | [🎮 Prompt Engineering](#prompt-engineering) |
-| [🎨 Visual Engine](#visual-engine) |
+| | | | | |
+|-|-|-|-|-|
+| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
 
