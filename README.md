@@ -13,7 +13,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | | |
 |-|-|-|-|
-| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) | [🚀 Model Deployment](#context-management) |
+| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) | [🚀 Model Deployment](#model-deployment) |
 | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
