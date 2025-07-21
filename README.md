@@ -13,8 +13,8 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | | |
 |-|-|-|-|
-| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) | [🚀 Model Deployment](#model-deployment) |
-| [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
+| [🤖 Agent Development](#agent-development) | [🤖 Agent Deployment](#agent-deployment) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) |
+| [🚀 Model Deployment](#model-deployment) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
 
@@ -84,7 +84,11 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [PydanticAI](https://github.com/pydantic/pydantic-ai) ![](https://img.shields.io/github/stars/pydantic/pydantic-ai.svg?style=social) - PydanticAI is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
 * [Swarm](https://github.com/openai/swarm) ![](https://img.shields.io/github/stars/openai/swarm.svg?style=social) - Swarm is an educational framework exploring ergonomic, lightweight multi-agent orchestration.
 * [Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social) - Swarms is an enterprise grade and production ready multi-agent collaboration framework that enables you to orchestrate many agents to work collaboratively at scale to automate real-world activities.
-* [TensorZero](https://github.com/tensorzero/tensorzero) ![](https://img.shields.io/github/stars/tensorzero/tensorzero.svg?style=social) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation. 
+* [TensorZero](https://github.com/tensorzero/tensorzero) ![](https://img.shields.io/github/stars/tensorzero/tensorzero.svg?style=social) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+
+## Agent Deployment
+
+* [Concordia](https://github.com/google-deepmind/concordia) ![](https://img.shields.io/github/stars/google-deepmind/concordia.svg?style=social) - Concordia is a library to facilitate construction and use of generative agent-based models to simulate interactions of agents in grounded physical, social, or digital space. 
 
 ## Context Management
 
