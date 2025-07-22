@@ -13,8 +13,8 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 
 | | | | |
 |-|-|-|-|
-| [🤖 Agent Development](#agent-development) | [🤖 Agent Deployment](#agent-deployment) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) |
-| [🚀 Model Deployment](#model-deployment) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
+| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) | [🚀 Model Deployment](#model-deployment) |
+| [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
 
@@ -74,6 +74,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [AutoGen](https://github.com/microsoft/autogen) ![](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social) - AutoGen is an open-source framework for building AI agent systems.
 * [Chidori](https://github.com/ThousandBirdsInc/chidori) ![](https://img.shields.io/github/stars/ThousandBirdsInc/chidori.svg?style=social) - Chidori is a reactive runtime that supports building robust AI agents using languages like Node.js, Python, and Rust, with a focus on reactivity and observability in agent workflows.
 * [Composio](https://github.com/ComposioHQ/composio) ![](https://img.shields.io/github/stars/ComposioHQ/composio.svg?style=social) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling.
+* [Concordia](https://github.com/google-deepmind/concordia) ![](https://img.shields.io/github/stars/google-deepmind/concordia.svg?style=social) - Concordia is a library to facilitate construction and use of generative agent-based models to simulate interactions of agents in grounded physical, social, or digital space. 
 * [CrewAI](https://github.com/crewAIInc/crewAI) ![](https://img.shields.io/github/stars/crewAIInc/crewAI.svg?style=social) - CrewAI is a cutting-edge framework for orchestrating role-playing, autonomous AI agents.
 * [Eko](https://github.com/FellouAI/eko) ![](https://img.shields.io/github/stars/FellouAI/eko.svg?style=social) - Eko is a production-ready JavaScript framework that enables developers to create reliable agents, from simple commands to complex workflows.
 * [IntellAgent](https://github.com/plurai-ai/intellagent) ![](https://img.shields.io/github/stars/plurai-ai/intellagent.svg?style=social) - IntellAgent is an advanced multi-agent framework that transforms the evaluation and optimization of conversational agents.
@@ -85,10 +86,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Swarm](https://github.com/openai/swarm) ![](https://img.shields.io/github/stars/openai/swarm.svg?style=social) - Swarm is an educational framework exploring ergonomic, lightweight multi-agent orchestration.
 * [Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social) - Swarms is an enterprise grade and production ready multi-agent collaboration framework that enables you to orchestrate many agents to work collaboratively at scale to automate real-world activities.
 * [TensorZero](https://github.com/tensorzero/tensorzero) ![](https://img.shields.io/github/stars/tensorzero/tensorzero.svg?style=social) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
-
-## Agent Deployment
-
-* [Concordia](https://github.com/google-deepmind/concordia) ![](https://img.shields.io/github/stars/google-deepmind/concordia.svg?style=social) - Concordia is a library to facilitate construction and use of generative agent-based models to simulate interactions of agents in grounded physical, social, or digital space. 
 
 ## Context Management
 
