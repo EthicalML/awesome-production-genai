@@ -99,6 +99,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [MemOS](https://github.com/MemTensor/MemOS) ![](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social) - MemOS is an operating system for Large Language Models (LLMs) that enhances them with long-term memory capabilities. It allows LLMs to store, retrieve, and manage information, enabling more context-aware, consistent, and personalized interactions.
 
 ## Model Deployment
+* [dstack](https://github.com/Dstack-TEE/dstack) ![](https://img.shields.io/github/stars/Dstack-TEE/dstack.svg?style=social) - dstack is a confidential AI framework for secure deployment of LLMs and GenAI applications with hardware-enforced isolation, supporting Intel TDX and NVIDIA Confidential Computing for privacy-preserving production workloads.
 * [GenAI Processors](https://github.com/google-gemini/genai-processors) ![](https://img.shields.io/github/stars/google-gemini/genai-processors.svg?style=social) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
 
 ## Prompt Engineering
