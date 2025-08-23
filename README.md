@@ -99,6 +99,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 * [Mem0](https://github.com/mem0ai/mem0) ![](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social) - Mem0 ("mem-zero") enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. It remembers user preferences, adapts to individual needs, and continuously learns over time—ideal for customer support chatbots, AI assistants, and autonomous systems.
 * [MemOS](https://github.com/MemTensor/MemOS) ![](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social) - MemOS is an operating system for Large Language Models (LLMs) that enhances them with long-term memory capabilities. It allows LLMs to store, retrieve, and manage information, enabling more context-aware, consistent, and personalized interactions.
+* [supermemory](https://github.com/supermemoryai/supermemory) ![](https://img.shields.io/github/stars/supermemoryai/supermemory.svg?style=social) - supermemory intelligently extracts information from your conversations and apps and pieces together connections between memories to deliver seamless user experience.
 * [Zep](https://github.com/getzep/zep) ![](https://img.shields.io/github/stars/getzep/zep.svg?style=social) - Zep is a memory platform for AI agents that learns from user interactions and business data.
 
 ## Model Deployment
