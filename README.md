@@ -96,6 +96,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [ANP](https://github.com/agent-network-protocol/AgentNetworkProtocol) ![](https://img.shields.io/github/stars/agent-network-protocol/AgentNetworkProtocol.svg?style=social) - AgentNetworkProtocol (ANP) is an open-source communication standard designed to enable seamless connectivity and collaboration between intelligent agents, positioning itself as the foundational protocol for agent-to-agent interactions in the emerging AI ecosystem.
 * [FastMCP](https://github.com/jlowin/fastmcp) ![](https://img.shields.io/github/stars/jlowin/fastmcp.svg?style=social) - FastMCP is an open-source Python framework designed to simplify the creation and management of servers and clients that adhere to the Model Context Protocol (MCP).
 * [MCP Inspector](https://github.com/modelcontextprotocol/inspector) ![](https://img.shields.io/github/stars/modelcontextprotocol/inspector.svg?style=social) - MCP inspector is a developer tool for testing and debugging MCP servers.
+* [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) ![](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan.svg?style=social) - mcp-scan is an MCP security scanning tool for local and remote MCP Servers.
 
 ## Memory Management
 
