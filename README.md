@@ -14,7 +14,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | | | | |
 |-|-|-|-|
 | [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) | [🚀 Model Deployment](#model-deployment) |
-| [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
+| [🦺 Model Safety](#model-safety) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
 
@@ -109,6 +109,9 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Model Deployment
 * [GenAI Processors](https://github.com/google-gemini/genai-processors) ![](https://img.shields.io/github/stars/google-gemini/genai-processors.svg?style=social) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
+
+## Model Safety
+* [DeepTeam](https://github.com/confident-ai/deepteam) ![](https://img.shields.io/github/stars/confident-ai/deepteam.svg?style=social) - DeepTeam is a simple-to-use, open-source LLM red teaming framework, for penetration testing and safe guarding large-language model systems.
 
 ## Prompt Engineering
 
