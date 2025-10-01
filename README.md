@@ -109,6 +109,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Model Deployment
 * [GenAI Processors](https://github.com/google-gemini/genai-processors) ![](https://img.shields.io/github/stars/google-gemini/genai-processors.svg?style=social) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
+* [SGLang](https://github.com/sgl-project/sglang) ![](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social) - SGLang is a fast serving framework for large language models and vision language models.
 
 ## Model Safety
 * [DeepTeam](https://github.com/confident-ai/deepteam) ![](https://img.shields.io/github/stars/confident-ai/deepteam.svg?style=social) - DeepTeam is a simple-to-use, open-source LLM red teaming framework, for penetration testing and safe guarding large-language model systems.
