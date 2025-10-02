@@ -14,7 +14,7 @@ Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhimin
 | | | | |
 |-|-|-|-|
 | [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) | [🚀 Model Deployment](#model-deployment) |
-| [🦺 Model Safety](#model-safety) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
+| [🦺 Model Security](#model-security) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
 
@@ -111,8 +111,12 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [GenAI Processors](https://github.com/google-gemini/genai-processors) ![](https://img.shields.io/github/stars/google-gemini/genai-processors.svg?style=social) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
 * [SGLang](https://github.com/sgl-project/sglang) ![](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social) - SGLang is a fast serving framework for large language models and vision language models.
 
-## Model Safety
+## Model Security
+* [Agentic Radar](https://github.com/splx-ai/agentic-radar) ![](https://img.shields.io/github/stars/splx-ai/agentic-radar.svg?style=social) - Agentic Radar is a security scanner for LLM agentic workflows for potential vulnerabilities.
+* [DeepTeam](https://github.com/msoedov/agentic_security) ![](https://img.shields.io/github/stars/msoedov/agentic_security.svg?style=social) - Agentic Security is a vulnerability scanner for agentic workflows, protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
 * [DeepTeam](https://github.com/confident-ai/deepteam) ![](https://img.shields.io/github/stars/confident-ai/deepteam.svg?style=social) - DeepTeam is a simple-to-use, open-source LLM red teaming framework, for penetration testing and safe guarding large-language model systems.
+* [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz) ![](https://img.shields.io/github/stars/prompt-security/ps-fuzz.svg?style=social) - Prompt Fuzzer is a security tool that tests GenAI applications to find vulnerabilities, such as prompt injection and other attacks.
+* [Purple Llama](https://github.com/meta-llama/PurpleLlama) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?style=social) - Purple Llama is a set of tools to assess and improve LLM security for building responsible GenAI models.
 
 ## Prompt Engineering
 
