@@ -111,6 +111,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Zep](https://github.com/getzep/zep) ![](https://img.shields.io/github/stars/getzep/zep.svg?style=social) - Zep is a memory platform for AI agents that learns from user interactions and business data.
 
 ## Model Deployment
+* [dstack](https://github.com/Dstack-TEE/dstack) ![](https://img.shields.io/github/stars/Dstack-TEE/dstack.svg?style=social) - dstack is a confidential AI framework for secure deployment of LLMs and GenAI applications with hardware-enforced isolation, supporting Intel TDX and NVIDIA Confidential Computing for privacy-preserving production workloads.
 * [GenAI Processors](https://github.com/google-gemini/genai-processors) ![](https://img.shields.io/github/stars/google-gemini/genai-processors.svg?style=social) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
 * [SGLang](https://github.com/sgl-project/sglang) ![](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social) - SGLang is a fast serving framework for large language models and vision language models.
 
