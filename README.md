@@ -7,8 +7,6 @@ This repository contains a curated list of awesome open source libraries that wi
 
 You can keep up to date by watching this github repo to get a summary of the new production ML libraries added every month [via releases](https://github.com/EthicalML/awesome-production-genai/releases) 🤩
 
-Additionally, we provide a [search toolkit](https://huggingface.co/spaces/zhiminy/Awesome-Production-GenAI-Search) that helps you quickly navigate through the toolchain.
-
 ## Quick links to sections on this page
 
 | | | | |
