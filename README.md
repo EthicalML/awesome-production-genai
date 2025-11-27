@@ -94,6 +94,10 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Swarms](https://github.com/kyegomez/swarms) ![](https://img.shields.io/github/stars/kyegomez/swarms.svg?style=social) - Swarms is an enterprise grade and production ready multi-agent collaboration framework that enables you to orchestrate many agents to work collaboratively at scale to automate real-world activities.
 * [TensorZero](https://github.com/tensorzero/tensorzero) ![](https://img.shields.io/github/stars/tensorzero/tensorzero.svg?style=social) - TensorZero is an open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
 
+## Agent Monitoring
+
+* [Judgeval](https://github.com/JudgmentLabs/judgeval) ![](https://img.shields.io/github/stars/JudgmentLabs/judgeval.svg?style=social) - Judgeval is an open-source framework for agent behavior monitoring. Judgeval offers a toolkit to track and judge agent behavior in online and offline setups, enabling you to convert interaction data from production/test environments into improved agents.
+
 ## Context Management
 
 * [A2A](https://github.com/a2aproject/A2A) ![](https://img.shields.io/github/stars/a2aproject/A2A.svg?style=social) - Agent2Agent (A2A) protocol addresses a critical challenge in the AI landscape: enabling gen AI agents, built on diverse frameworks by different companies running on separate servers, to communicate and collaborate effectively - as agents, not just as tools.
