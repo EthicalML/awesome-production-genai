@@ -11,8 +11,8 @@ You can keep up to date by watching this github repo to get a summary of the new
 
 | | | | |
 |-|-|-|-|
-| [🤖 Agent Development](#agent-development) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) | [🚀 Model Deployment](#model-deployment) |
-| [🦺 Model Security](#model-security) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
+| [🤖 Agent Development](#agent-development) | [🕵🏼 Agent Monitoring](#agent-monitoring) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) |
+| [🚀 Model Deployment](#model-deployment) | [🦺 Model Security](#model-security) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
 
