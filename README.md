@@ -128,6 +128,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [DeepTeam](https://github.com/msoedov/agentic_security) ![](https://img.shields.io/github/stars/msoedov/agentic_security.svg?style=social) - Agentic Security is a vulnerability scanner for agentic workflows, protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
 * [DeepTeam](https://github.com/confident-ai/deepteam) ![](https://img.shields.io/github/stars/confident-ai/deepteam.svg?style=social) - DeepTeam is a simple-to-use, open-source LLM red teaming framework, for penetration testing and safe guarding large-language model systems.
 * [Prompt Fuzzer](https://github.com/prompt-security/ps-fuzz) ![](https://img.shields.io/github/stars/prompt-security/ps-fuzz.svg?style=social) - Prompt Fuzzer is a security tool that tests GenAI applications to find vulnerabilities, such as prompt injection and other attacks.
+* [promptfoo](https://github.com/promptfoo/promptfoo) ![](https://img.shields.io/github/stars/promptfoo/promptfoo.svg?style=social) - promptfoo is an LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and vulnerabilities with adversarial attacks and CI/CD integration.
 * [Purple Llama](https://github.com/meta-llama/PurpleLlama) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg?style=social) - Purple Llama is a set of tools to assess and improve LLM security for building responsible GenAI models.
 
 ## Prompt Engineering
