@@ -124,6 +124,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [SGLang](https://github.com/sgl-project/sglang) ![](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social) - SGLang is a fast serving framework for large language models and vision language models.
 
 ## Model Security
+* [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) ![](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?style=social) - AI-Infra-Guard is an infrastructure security tool for AI systems.
 * [Agentic Radar](https://github.com/splx-ai/agentic-radar) ![](https://img.shields.io/github/stars/splx-ai/agentic-radar.svg?style=social) - Agentic Radar is a security scanner for LLM agentic workflows for potential vulnerabilities.
 * [DeepTeam](https://github.com/msoedov/agentic_security) ![](https://img.shields.io/github/stars/msoedov/agentic_security.svg?style=social) - Agentic Security is a vulnerability scanner for agentic workflows, protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
 * [DeepTeam](https://github.com/confident-ai/deepteam) ![](https://img.shields.io/github/stars/confident-ai/deepteam.svg?style=social) - DeepTeam is a simple-to-use, open-source LLM red teaming framework, for penetration testing and safe guarding large-language model systems.
