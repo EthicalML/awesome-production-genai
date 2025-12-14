@@ -65,6 +65,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 ## Agent Development
 
 * [ACP](https://github.com/agentclientprotocol/agent-client-protocol) ![](https://img.shields.io/github/stars/agentclientprotocol/agent-client-protocol.svg?style=social) - The Agent Client Protocol (ACP) standardizes communication between code editors (interactive programs for viewing and editing source code) and coding agents (programs that use generative AI to autonomously modify code).
+* [Agent Lightning](https://github.com/Lightning-AI/lightning-agents) ![](https://img.shields.io/github/stars/Lightning-AI/lightning-agents.svg?style=social) - Agent Lightning is a framework for building production-ready AI agents with Lightning AI.
 * [AgentAPI](https://github.com/coder/agentapi) ![](https://img.shields.io/github/stars/coder/agentapi.svg?style=social) - Control Claude Code, AmazonQ, Opencode, Goose, Aider, Gemini, GitHub Copilot, Sourcegraph Amp, Codex, Auggie, and Cursor CLI with an HTTP API.
 * [AgentKit](https://github.com/inngest/agent-kit) ![](https://img.shields.io/github/stars/inngest/agent-kit.svg?style=social) - AgentKit help agent developers build multi-agent networks with deterministic routing and rich tooling via MCP.
 * [AgentOps](https://github.com/AgentOps-AI/agentops) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg?style=social) - AgentOps helps developers build, evaluate, and monitor AI agents from prototype to production.
