@@ -146,5 +146,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Visual Engine
 
+* [A2UI](https://github.com/google/A2UI) ![](https://img.shields.io/github/stars/google/A2UI.svg?style=social) - A2UI is a framework for building agent-to-UI interactions.
 * [Chat UI](https://github.com/huggingface/chat-ui) ![](https://img.shields.io/github/stars/huggingface/chat-ui.svg?style=social) - Chat UI is an open-source web application framework that provides the frontend interface and backend infrastructure for building conversational AI chatbots, serving as the codebase behind their HuggingChat platform.
 * [ComfyUI](https://github.com/comfyanonymous/ComfyUI) ![](https://img.shields.io/github/stars/comfyanonymous/ComfyUI.svg?style=social) - ComfyUI is a node-based interface and inference engine for generative AI, specifically designed to work with Stable Diffusion and other AI models. It allows users to create complex workflows for image, video, and other content generation through a visual, graph-like interface.
