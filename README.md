@@ -76,6 +76,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [AgentTorch](https://github.com/AgentTorch/AgentTorch) ![](https://img.shields.io/github/stars/AgentTorch/AgentTorch.svg) - AgentTorch is a framework for building and running Large Population Models (LPMs) that enables differentiable simulations over millions of autonomous agents.
 * [AIOpsLab](https://github.com/microsoft/AIOpsLab) ![](https://img.shields.io/github/stars/microsoft/AIOpsLab.svg) - AIOpsLab is a holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
 * [any-agent](https://github.com/mozilla-ai/any-agent) ![](https://img.shields.io/github/stars/mozilla-ai/any-agent.svg) - any-agent is a Python library providing a single interface to different agent frameworks.
+* [AP2](https://github.com/google-agentic-commerce/AP2) ![](https://img.shields.io/github/stars/google-agentic-commerce/AP2.svg) - AP2 (Agent Payments Protocol) is a protocol for building secure and interoperable AI-driven payments in agentic commerce workflows.
 * [AutoGen](https://github.com/microsoft/autogen) ![](https://img.shields.io/github/stars/microsoft/autogen.svg) - AutoGen is an open-source framework for building AI agent systems.
 * [Chidori](https://github.com/ThousandBirdsInc/chidori) ![](https://img.shields.io/github/stars/ThousandBirdsInc/chidori.svg) - Chidori is a reactive runtime that supports building robust AI agents using languages like Node.js, Python, and Rust, with a focus on reactivity and observability in agent workflows.
 * [Composio](https://github.com/ComposioHQ/composio) ![](https://img.shields.io/github/stars/ComposioHQ/composio.svg) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling.
@@ -111,6 +112,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [FastMCP](https://github.com/jlowin/fastmcp) ![](https://img.shields.io/github/stars/jlowin/fastmcp.svg) - FastMCP is an open-source Python framework designed to simplify the creation and management of servers and clients that adhere to the Model Context Protocol (MCP).
 * [MCP Inspector](https://github.com/modelcontextprotocol/inspector) ![](https://img.shields.io/github/stars/modelcontextprotocol/inspector.svg) - MCP inspector is a developer tool for testing and debugging MCP servers.
 * [mcp-scan](https://github.com/invariantlabs-ai/mcp-scan) ![](https://img.shields.io/github/stars/invariantlabs-ai/mcp-scan.svg) - mcp-scan is an MCP security scanning tool for local and remote MCP Servers.
+* [UCP](https://github.com/Universal-Commerce-Protocol/ucp) ![](https://img.shields.io/github/stars/Universal-Commerce-Protocol/ucp.svg) - UCP (Universal Commerce Protocol) is an open standard enabling interoperability between commerce entities and AI agents to facilitate seamless, agentic commerce integrations.
 
 ## Memory Management
 
