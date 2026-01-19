@@ -125,6 +125,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Model Deployment
 * [GenAI Processors](https://github.com/google-gemini/genai-processors) ![](https://img.shields.io/github/stars/google-gemini/genai-processors.svg) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
+* [LitServe](https://github.com/Lightning-AI/LitServe) ![](https://img.shields.io/github/stars/Lightning-AI/LitServe.svg) - LitServe is a minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.
 * [SGLang](https://github.com/sgl-project/sglang) ![](https://img.shields.io/github/stars/sgl-project/sglang.svg) - SGLang is a fast serving framework for large language models and vision language models.
 
 ## Model Security
