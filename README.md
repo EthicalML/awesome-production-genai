@@ -68,6 +68,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [ADK](https://github.com/google/adk-python) ![](https://img.shields.io/github/stars/google/adk-python.svg) - ADK is Google's Agent Development Kit for Python, a framework for building production-ready AI agents.
 * [Agent Lightning](https://github.com/microsoft/agent-lightning) ![](https://img.shields.io/github/stars/Lightning-AI/lightning-agents.svg) - Agent Lightning is a framework for building production-ready AI agents with Lightning AI.
 * [AgentAPI](https://github.com/coder/agentapi) ![](https://img.shields.io/github/stars/coder/agentapi.svg) - Control Claude Code, AmazonQ, Opencode, Goose, Aider, Gemini, GitHub Copilot, Sourcegraph Amp, Codex, Auggie, and Cursor CLI with an HTTP API.
+* [AgentLab](https://github.com/ServiceNow/AgentLab) ![](https://img.shields.io/github/stars/ServiceNow/AgentLab.svg) - AgentLab is an open-source framework for developing, testing, and benchmarking web agents on diverse tasks, designed for scalability and reproducibility.
 * [AgentKit](https://github.com/inngest/agent-kit) ![](https://img.shields.io/github/stars/inngest/agent-kit.svg) - AgentKit help agent developers build multi-agent networks with deterministic routing and rich tooling via MCP.
 * [AgentOps](https://github.com/AgentOps-AI/agentops) ![](https://img.shields.io/github/stars/AgentOps-AI/agentops.svg) - AgentOps helps developers build, evaluate, and monitor AI agents from prototype to production.
 * [Agents](https://github.com/livekit/agents) ![](https://img.shields.io/github/stars/livekit/agents.svg) - Agents allows users to build AI-driven server programs that can see, hear, and speak in realtime.
@@ -88,6 +89,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [Hephaestus](https://github.com/Ido-Levi/Hephaestus) ![](https://img.shields.io/github/stars/Ido-Levi/Hephaestus.svg) - Hephaestus is an open-source, semi-structured agentic framework where AI agents dynamically build workflows and tasks as they discover needs, instead of adhering to predefined plans.
 * [IntellAgent](https://github.com/plurai-ai/intellagent) ![](https://img.shields.io/github/stars/plurai-ai/intellagent.svg) - IntellAgent is an advanced multi-agent framework that transforms the evaluation and optimization of conversational agents.
 * [kagent](https://github.com/kagent-dev/kagent) ![](https://img.shields.io/github/stars/kagent-dev/kagent.svg) - kagent is a Kubernetes native framework for building AI agents.
+* [KAOS](https://github.com/axsaucedo/kaos) ![](https://img.shields.io/github/stars/axsaucedo/kaos.svg) - KAOS is a Kubernetes-native framework for deploying and orchestrating AI agents with tool access, multi-agent coordination, and seamless LLM integration.
 * [LangGraph](https://github.com/langchain-ai/langgraph) ![](https://img.shields.io/github/stars/langchain-ai/langgraph.svg) - LangGraph is a library for building stateful, multi-actor applications with LLMs, used to create agent and multi-agent workflows.
 * [Modelscope-Agent](https://github.com/modelscope/modelscope-agent) ![](https://img.shields.io/github/stars/modelscope/modelscope-agent.svg) - Modelscope-Agent is a customizable and scalable agent framework.
 * [n8n](https://github.com/n8n-io/n8n) ![](https://img.shields.io/github/stars/n8n-io/n8n.svg) - n8n is a workflow automation platform that gives technical teams the flexibility of code with the speed of no-code.
@@ -125,6 +127,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Model Deployment
 * [GenAI Processors](https://github.com/google-gemini/genai-processors) ![](https://img.shields.io/github/stars/google-gemini/genai-processors.svg) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
+* [LitServe](https://github.com/Lightning-AI/LitServe) ![](https://img.shields.io/github/stars/Lightning-AI/LitServe.svg) - LitServe is a minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.
 * [SGLang](https://github.com/sgl-project/sglang) ![](https://img.shields.io/github/stars/sgl-project/sglang.svg) - SGLang is a fast serving framework for large language models and vision language models.
 
 ## Model Security
@@ -133,7 +136,9 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [DeepTeam](https://github.com/msoedov/agentic_security) ![](https://img.shields.io/github/stars/msoedov/agentic_security.svg) - Agentic Security is a vulnerability scanner for agentic workflows, protecting AI systems from jailbreaks, fuzzing, and multimodal attacks.
 * [DeepTeam](https://github.com/confident-ai/deepteam) ![](https://img.shields.io/github/stars/confident-ai/deepteam.svg) - DeepTeam is a simple-to-use, open-source LLM red teaming framework, for penetration testing and safe guarding large-language model systems.
 * [promptfoo](https://github.com/promptfoo/promptfoo) ![](https://img.shields.io/github/stars/promptfoo/promptfoo.svg) - promptfoo is an LLM red teaming and evaluation framework for testing jailbreaks, prompt injection, and vulnerabilities with adversarial attacks and CI/CD integration.
+* [ps-fuzz](https://github.com/prompt-security/ps-fuzz) ![](https://img.shields.io/github/stars/prompt-security/ps-fuzz.svg) - ps-fuzz is a tool to test and harden GenAI system prompts against security vulnerabilities and adversarial attacks.
 * [Purple Llama](https://github.com/meta-llama/PurpleLlama) ![](https://img.shields.io/github/stars/meta-llama/PurpleLlama.svg) - Purple Llama is a set of tools to assess and improve LLM security for building responsible GenAI models.
+* [Rogue](https://github.com/qualifire-dev/rogue) ![](https://img.shields.io/github/stars/qualifire-dev/rogue.svg) - Rogue is an AI agent evaluator and red team platform for testing agents against business policies and security vulnerabilities.
 
 ## Prompt Engineering
 
@@ -142,6 +147,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [ell](https://github.com/MadcowD/ell) ![](https://img.shields.io/github/stars/MadcowD/ell.svg) - ell is a language model programming library that treats prompts as programs. Features automatic versioning, serialization, and rich tooling for prompt engineering with Ell Studio for visualization.
 * [Latitude](https://github.com/latitude-dev/latitude-llm) ![](https://img.shields.io/github/stars/latitude-dev/latitude-llm.svg) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine prompts with AI. Features prompt management, playground testing, AI gateway, and evaluations.
 * [PromptIDE](https://x.ai/blog/prompt-ide) - PromptIDE by xAI is an integrated development environment for prompt engineering and interpretability research, providing transparent access to Grok-1 with rich analytics and Python SDK support.
+* [PromptLayer](https://github.com/MagnivOrg/prompt-layer-library) ![](https://img.shields.io/github/stars/MagnivOrg/prompt-layer-library.svg) - PromptLayer is a platform that allows you to track, manage, and share your GPT prompt engineering by acting as middleware to log all OpenAI API requests.
 * [PromptSource](https://github.com/bigscience-workshop/promptsource) ![](https://img.shields.io/github/stars/bigscience-workshop/promptsource.svg) - PromptSource is a toolkit for creating, sharing and using natural language prompts. Contains a growing collection of prompts (P3: Public Pool of Prompts) written in Jinja templating language.
 * [Prompty](https://github.com/microsoft/prompty) ![](https://img.shields.io/github/stars/microsoft/prompty.svg) - Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for AI applications. An asset class and format for LLM prompts designed to enhance observability, understandability, and portability.
 
