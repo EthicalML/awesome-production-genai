@@ -120,6 +120,7 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 
 ## Memory Management
 
+* [claude-supermemory](https://github.com/supermemoryai/claude-supermemory) ![](https://img.shields.io/github/stars/supermemoryai/claude-supermemory.svg) - claude-supermemory is a Claude Code plugin that gives AI persistent memory across sessions using Supermemory, enabling agents to remember work across sessions and projects with team memory and auto-capture features.
 * [Graphiti](https://github.com/getzep/graphiti) ![](https://img.shields.io/github/stars/getzep/graphiti.svg) - Graphiti is a framework for building and querying temporally-aware knowledge graphs, specifically tailored for AI agents operating in dynamic environments.
 * [LangMem](https://github.com/langchain-ai/langmem) ![](https://img.shields.io/github/stars/langchain-ai/langmem.svg) - LangMem provides ways to extract meaningful details from chats, store them, and use them to improve future interactions.
 * [Mem0](https://github.com/mem0ai/mem0) ![](https://img.shields.io/github/stars/mem0ai/mem0.svg) - Mem0 ("mem-zero") enhances AI assistants and agents with an intelligent memory layer, enabling personalized AI interactions. It remembers user preferences, adapts to individual needs, and continuously learns over time—ideal for customer support chatbots, AI assistants, and autonomous systems.
