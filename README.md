@@ -12,7 +12,7 @@ You can keep up to date by watching this github repo to get a summary of the new
 | | | | |
 |-|-|-|-|
 | [🤖 Agent Development](#agent-development) | [🕵🏼 Agent Monitoring](#agent-monitoring) | [☎️ Context Management](#context-management) | [🎞️ Memory Management](#memory-management) |
-| [🚀 Model Deployment](#model-deployment) | [🦺 Model Security](#model-security) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
+| [🦺 Model Security](#model-security) | [🎮 Prompt Engineering](#prompt-engineering) | [🎨 Visual Engine](#visual-engine) |
 
 ## Contributing to the list
 
@@ -129,11 +129,6 @@ Please review our [CONTRIBUTING.md](https://github.com/EthicalML/awesome-product
 * [SimpleMem](https://github.com/aiming-lab/SimpleMem) ![](https://img.shields.io/github/stars/aiming-lab/SimpleMem.svg?cacheSeconds=86400) - SimpleMem is an efficient lifelong memory system for LLM agents that enables seamless memory retention and management across conversations.
 * [supermemory](https://github.com/supermemoryai/supermemory) ![](https://img.shields.io/github/stars/supermemoryai/supermemory.svg?cacheSeconds=86400) - supermemory intelligently extracts information from your conversations and apps and pieces together connections between memories to deliver seamless user experience.
 * [Zep](https://github.com/getzep/zep) ![](https://img.shields.io/github/stars/getzep/zep.svg?cacheSeconds=86400) - Zep is a memory platform for AI agents that learns from user interactions and business data.
-
-## Model Deployment
-* [GenAI Processors](https://github.com/google-gemini/genai-processors) ![](https://img.shields.io/github/stars/google-gemini/genai-processors.svg?cacheSeconds=86400) - GenAI Processors is a lightweight Python library that enables efficient, parallel content processing.
-* [LitServe](https://github.com/Lightning-AI/LitServe) ![](https://img.shields.io/github/stars/Lightning-AI/LitServe.svg?cacheSeconds=86400) - LitServe is a minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.
-* [SGLang](https://github.com/sgl-project/sglang) ![](https://img.shields.io/github/stars/sgl-project/sglang.svg?cacheSeconds=86400) - SGLang is a fast serving framework for large language models and vision language models.
 
 ## Model Security
 * [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) ![](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard.svg?cacheSeconds=86400) - AI-Infra-Guard is an infrastructure security tool for AI systems.
